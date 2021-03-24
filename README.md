@@ -4,7 +4,7 @@
 Projeto criado durante treinamento React com [Douglas Morais](https://github.com/mrdouglasmorais)
 
 
-![Capa do Projeto](/docs/capa.jpg)
+![Capa do Projeto](/docs/capa.JPG)
 
 
 ## Dependências e pacotes
